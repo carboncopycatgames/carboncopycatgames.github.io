@@ -1,5 +1,10 @@
 site_name: Carbon Copycat Games
+site_description: We like to make games.
+site_author: carboncode
+copyright: Copyright &copy; 2019-2020 <a href="https://carboncopycatgames.com/">Carbon Copycat Games</a>
 nav:
     - Home: index.md
-    - About: about.md
-
+    - Victorious: victorious.md
+    - Bit Champs: bitchamps.md
+    - Contact: contact.md
+theme: readthedocs
