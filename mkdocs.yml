@@ -1,0 +1,5 @@
+site_name: Carbon Copycat Games
+nav:
+    - Home: index.md
+    - About: about.md
+
