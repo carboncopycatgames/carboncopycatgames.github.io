@@ -15,8 +15,7 @@ This game has a modified version of [tesseract](http://tesseract.gg/), codename 
 - PBR rendering
 - Moveable entities
 - Combat system to handle melee combat
-- Capture
-
+- Domination game mode where you have to capture all points to win
 
  The [sourcecode](https://github.com/sx7889/victorious-cagayan-battles) was released on our last version.
 
