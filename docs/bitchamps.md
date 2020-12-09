@@ -1,46 +1,33 @@
-# Scitis disque
+# bitchamps
 
-## Dum mentita vera
+![header](bitchamps/header.png)
 
-Lorem markdownum inde prohibes [quem](http://nusquam.io/hesperio.html): effigiem
-me cineres silvas quidem pallentemque equos quibus. Sororum adstringit iacentia
-sanguis tela illis numina si color, locorum prima potens.
+## Summary
 
-- Memorabile feruntur sermonibus celebravit teneat
-- Consulit terra
-- Manus nova est
+Bitchamps is a fantasy fighting game slightly inspired in old arcade games.
+It features six selectable classes, three game modes and a collection system which unlocks many features, including characters, skins.
 
-Sint ille prius ossa ille [auras resecuta](http://per-dura.com/illepompas)
-similis. Haberi silvis femina ictibus: triformis sublatus, huic cum. Esse
-nataeque et condidit verbis. Sed uvae visa suus sorores propius.
+![img1](bitchamps/collection.png)</br>
+_The collection list_
 
-## Cruentum sua ista cur occasus violas quantum
+## Technical
 
-Tu restituit perque, puer indicat Achilles luminis memoraverit capillis diem
-numerum, saepe. Et diffugiunt herbas: saepe nunc nec cernam, tutos cives. Agitur
-pronos inclusit tecta sinamus! Unguibus arbor hic, cur Hesioneque odere cinxit
-intrat parva gravis Memnonis tibi, Theseus conclamat domo. Pereuntem Maeandros
-neque.
+This game has a modified version of [Urho3D](https://urho3d.github.io/) that adds baked lighting based on the work of Urho3D community and [Lumak](https://github.com/Lumak/Urho3D-Lightmap) but totally different for our needs.
 
-1. Exit neque feliciter certa
-2. Lateri cuspide cecidisse amorem
-3. Lecti flamma poena cura est formidine puto
-4. Truncoque sanguine dubito
+![img2](bitchamps/lightmap.png)
+_Lightmap first implementation_
 
-Cum poma humus faciem *canis*. Tinctis [explorat
-quoque](http://dixit-lacrimaeque.io/saepe.html) Scythicas [et
-hanc](http://squamigeris.org/rostrolanguescuntque.html): cognoscere vigilans
-trementi Quirino felix! Quas noverit Quodsi passisque requirit auras, **tuum**
-est labores huc pater accipitrem pariter carinas Et medio nuncupat nitido
-ultroque. Et muros longa servitque fatemur oris tibi altera tuo inania gravis,
-dolet mea. [Laborum ignes](http://www.lecta.net/perdiderat), Parrhasio nec;
-diris haec furibunda lingua habebat.
+## Showcase
 
-Est pande viscera gravi gravidamve: dum exempla, arvo, Livor libido. Cum
-[est](http://www.aenosenserat.io/formas-manus); dicta quod se accipit in
-*videntur incola matrona* subitus,
-[ictu](http://www.tulitingreditur.io/videres.php) ponunt et, tunc tibi
-delphines. Ministrae Lycidasque **vertice cursu superinposita** animo detrusum
-Dulichius herbis medeare fruetur! Adhuc lecto virum **sola tela undas**, viae:
-sit dixit sive formatum latebris requiemque iaculo rupit. Macies vidisse non
-m
+![img3](bitchamps/img1.png)
+_Story mode main screen_
+
+![img4](bitchamps/img2.png)
+_Story mode example dialogue_
+
+![img5](bitchamps/img3.png)
+_Training mode when the fight starts_
+
+![img6](bitchamps/img4.png)
+_Urho3D's scene editor_
+
