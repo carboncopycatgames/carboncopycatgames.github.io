@@ -5,6 +5,10 @@ copyright: Copyright &copy; 2019-2020 <a href="https://carboncopycatgames.com/">
 nav:
     - Home: index.md
     - Victorious: victorious.md
-    - Bit Champs: bitchamps.md
+#    - Bit Champs: bitchamps.md
+    - Privacy Policy: privacypolicy.md
     - Contact: contact.md
-theme: readthedocs
+theme:
+    name: null
+    custom_dir: 'theme'
+    navigation_depth: 3
